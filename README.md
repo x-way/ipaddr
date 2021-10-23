@@ -9,7 +9,7 @@ It's mostly helpful for people working with systems where the output of `ip addr
 
 ## Installation
 ```
-# go get -u github.com/x-way/ipaddr
+# go install github.com/x-way/ipaddr@latest
 ```
 
 ## Usage
