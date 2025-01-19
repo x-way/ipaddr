@@ -1,3 +1,3 @@
 module github.com/x-way/ipaddr
 
-go 1.19
+go 1.23.5
