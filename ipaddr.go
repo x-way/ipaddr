@@ -20,7 +20,7 @@ func filterLinkLocal(addr string) bool {
 
 func main() {
 	flag.Usage = func() {
-		fmt.Fprintf(flag.CommandLine.Output(), "Usage: %s [-6] [-l] [<interface>]\n\nParameters:\n", os.Args[0])
+		_, _ = fmt.Fprintf(flag.CommandLine.Output(), "Usage: %s [-6] [-l] [<interface>]\n\nParameters:\n", os.Args[0])
 		flag.PrintDefaults()
 	}
 	showIPv6 := flag.Bool("6", false, "also show IPv6 addresses")
