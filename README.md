@@ -1,6 +1,5 @@
 # ipaddr - human friendly list of IP addresses and network interfaces
 [![CircleCI](https://circleci.com/gh/x-way/ipaddr.svg?style=svg)](https://circleci.com/gh/x-way/ipaddr)
-[![Go Report Card](https://goreportcard.com/badge/github.com/x-way/ipaddr)](https://goreportcard.com/report/github.com/x-way/ipaddr)
 
 ipaddr - human friendly list of IP addresses and network interfaces
 
